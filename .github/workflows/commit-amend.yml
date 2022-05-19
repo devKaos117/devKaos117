@@ -1,0 +1,21 @@
+name: datetime
+on: [ push ]
+jobs:
+  getTime:
+    runs-on: ubuntu-latest
+    outputs:
+      timestamp: ${{ steps.stepGetTime.outputs.time }}
+    steps:
+      - name: get time
+        id : stepGetTime
+        run: echo ::set-output name=time::$(printf '%x\n' $(date +%s))
+  commit:
+    needs: getTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+              git config --global user.email "gustavo.s.aragao.2003@gmail.com"
+              git config --global user.name "devKaos117"
+              git commit --amend -m "${{ needs.getTime.outputs.timestamp }}"
+              git push --force https://github.com/devKaos117/devKaos117.git main
