@@ -2,8 +2,8 @@
 
 <div align="center" width="100%" style="display: block;">
     <a href="https://github.com/devKaos117" target="_blank">
-        <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=devKaos117&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true">
-        <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKaos117&layout=compact&&count_private=true&show_icons=true&theme=radical&hide_border=true">
+        <img align="left" height="140px" src="https://github-readme-stats-xi-jet-86.vercel.app/api?username=devKaos117&count_private=true&show_icons=true&theme=radical&hide_title=true&hide_border=true">
+        <img align="right" height="140px" src="https://github-readme-stats-xi-jet-86.vercel.app/api/top-langs/?username=devKaos117&layout=compact&&count_private=true&show_icons=true&theme=radical&hide_border=true">
     </a>
 </div>
 
