@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+<!-- ---------------- head ---------------- -->
+        <!-- ------- headers ------- -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta content="text/html" charset="utf-8">
+        <title>main</title>
+        <!-- ------- metadata ------- -->
+        <meta name="verify-v1" content="">
+        <meta name="author" content="Gustavo Aragão">
+        <meta name="reply-to" content="gustavo.s.aragao.2003@gmail.com">
+        <meta name="description" content="https://github.com/devKaos117">
+        <meta name="keywords" content="">
+        <meta name="revised" content="">
+        <meta name="robots" content="">
+        <meta name="url" content="">
+        <!-- ------- OpenGraph metadata ------- -->
+        <meta name="og:email" content="gustavo.s.aragao.2003@gmail.com"/>
+        <meta name="og:locale" content="br"/>
+        <!-- ------- favicon ------- -->
+        <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+        <link rel="manifest" href="img/favicon/site.webmanifest">
+        <!-- ------- Google analytics ------- -->
+        <!-- ------- fonts ------- -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!-- ------- css ------- -->
+        <link href="css/style.css" rel="stylesheet">
+        <!-- ------- js ------- -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> <!-- https://jquery.com/download/ -->
+        <script src="https://unpkg.com/vanilla-masker@1.1.1/build/vanilla-masker.min.js"></script> <!-- https://github.com/vanilla-masker/vanilla-masker -->
+<!-- ---------------- /head ---------------- -->
+    </head>
+<!-- -------  ------- -->
+    <body>
+<!-- ---------------- body ---------------- -->
+        <!-- ------- navbar ------- -->
+        <!-- ------- main ------- -->
+        <!-- ------- footer ------- -->
+        <!-- ------- script ------- -->
+        <script>
+            //------- screen size logging
+            var screenW = $(window).width();
+            var screenH = $(window).height();
+            console.log("x",screenW,"y",screenH);
+            //------- iFrame closing
+            if (window.top !== window.self){
+                window.top.location.replace(window.self.location.href);
+            }
+        </script>
+        <script src="js/script.js"></script>
+<!-- ---------------- /body ---------------- -->
+    </body>
+</html>
