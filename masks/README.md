@@ -28,14 +28,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat mass
 ### Tecnologias Aplicadas <a name = "descricao_tecnica-techs"></a>
 
 #### Ambiente de Desenvolvimento
--   <span style="vertical-align: middle;" ><sup>Fedora Workstation</sup> ![v40](https://img.shields.io/badge/version-40-informational)</span>
--   <span style="vertical-align: middle;" ><sup>VS Code</sup> ![v1.95.3](https://img.shields.io/badge/version-1.95.3-informational)</span>
+&emsp;&emsp;![Static Badge](https://img.shields.io/badge/vXX-%23FFFFFF?style=flat&logo=fedora&logoColor=%2351A2DA&logoSize=auto&label=Fedora&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.fedoraproject.org)
+<br>
+&emsp;&emsp;![Static Badge](https://img.shields.io/badge/vX.X-%23FFFFFF?style=flat&logo=zsh&logoColor=%23F15A24&logoSize=auto&label=zsh&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.zsh.org)
+<br>
+&emsp;&emsp;![Static Badge](https://img.shields.io/badge/vX.XX.X-%23FFFFFF?style=flat&logo=codecrafters&logoColor=%230065A9&logoSize=auto&label=VS%20Code&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fcode.visualstudio.com)
+
 
 #### Componentes da Aplicação
--   <span style="vertical-align: middle;" ><sup>MariaDB</sup> ![v15.1](https://img.shields.io/badge/version-15.1-informational)</span>
--   <span style="vertical-align: middle;" ><sup>Node.js</sup> ![v23.2](https://img.shields.io/badge/version-23.2-informational)</span>
--   -   <span style="vertical-align: middle;" ><sup>express</sup> ![v4.21.1](https://img.shields.io/badge/version-4.21.1-informational)</span>
--   -   <span style="vertical-align: middle;" ><sup>dolor sit amet</sup> ![v0.0](https://img.shields.io/badge/version-0.0.0-informational)</span>
+&emsp;&emsp;![Static Badge](https://img.shields.io/badge/vXX-%23FFFFFF?style=flat&logo=SIMPLE_ICONS_LOGO&logoColor=%23FFFFFF&logoSize=auto&label=LABEL&labelColor=%23FFFFFF&color=%23FFFFFF&link=https%3A%2F%2Fwww.github.com%2FdevKaos117)
 
 ### Metodologias e Design de Projeto <a name = "descricao_tecnica-design"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
