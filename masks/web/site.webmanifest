@@ -1,0 +1,43 @@
+{
+    "name": "Application Name",
+    "short_name": "AppName",
+    "id": "./",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon/icon-16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "favicon/icon-32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },{
+            "src": "favicon/icon-48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },{
+            "src": "favicon/icon-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },{
+            "src": "favicon/icon-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },{
+            "src": "favicon/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "favicon/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}

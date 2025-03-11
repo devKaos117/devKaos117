@@ -1,48 +1,48 @@
-# Repositório ![v0](https://img.shields.io/badge/version-0-informational)
+# Repository ![v0](https://img.shields.io/badge/version-0-informational)
 <a href="https://www.github.com/devKaos117" target="_blank">![Static Badge](https://img.shields.io/badge/License-%23FFFFFF?style=flat&label=MIT&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.github.com%2FdevKaos117)</a>
-## Índice
+## Index
 
--   [Sobre](#sobre)
-    -   [Resumo](#sobre-resumo)
-    -   [Como Usar](#sobre-uso)
--   [Descrição Técnica](#descricao_tecnica)
-    -   [Tecnologias Aplicadas](#descricao_tecnica-techs)
-    -   [Metodologias e Design de Projeto](#descricao_tecnica-design)
-    -   [Autenticação e Segurança](#descricao_tecnica-auth)
-    -   [Diagramas](#descricao_tecnica-diagramas)
-
----
-
-## Sobre <a name = "sobre"></a>
-
-### Resumo <a name = "sobre-resumo"></a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
-
-### Como Usar <a name = "sobre-uso"></a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
+-   [About](#about)
+    -   [Summary](#about-summary)
+    -   [Usage](#about-usage)
+-   [Technical Description](#technical-description)
+    -   [Applied Technologies](#technical-description-techs)
+    -   [Methodologies and Design Patterns](#technical-description-design)
+    -   [Authentication and Security](#technical-description-auth)
+    -   [Diagrams](#technical-description-diagrams)
 
 ---
 
-## Descrição Técnica <a name = "descricao_tecnica"></a>
+## About <a name = "about"></a>
 
-### Tecnologias Aplicadas <a name = "descricao_tecnica-techs"></a>
+### Summary <a name = "about-summary"></a>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
 
-#### Ambiente de Desenvolvimento
-&emsp;&emsp;<a href="https://www.fedoraproject.org">![Static Badge](https://img.shields.io/badge/vXX-%23FFFFFF?style=flat&logo=fedora&logoColor=%2351A2DA&logoSize=auto&label=Fedora&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.fedoraproject.org)</a>
+### Endpoints <a name = "about-usage"></a>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
+
+---
+
+## Technical Description <a name = "technical-description"></a>
+
+### Applied Technologies <a name = "technical-description-techs"></a>
+
+#### Development Environment
+&emsp;&emsp;<a href="https://archlinux.org/">![Static Badge](https://img.shields.io/badge/vXX-%23FFFFFF?style=flat&logo=archlinux&logoColor=%1793D1&logoSize=auto&label=Arch&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.archlinux.org)</a>
 <br>
 &emsp;&emsp;<a href="https://www.zsh.org" target="_blank">![Static Badge](https://img.shields.io/badge/vX.X-%23FFFFFF?style=flat&logo=zsh&logoColor=%23F15A24&logoSize=auto&label=zsh&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.zsh.org)</a>
 <br>
 &emsp;&emsp;<a href="https://code.visualstudio.com" target="_blank">![Static Badge](https://img.shields.io/badge/vX.XX.X-%23FFFFFF?style=flat&logo=codecrafters&logoColor=%230065A9&logoSize=auto&label=VS%20Code&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fcode.visualstudio.com)</a>
 
 
-#### Componentes da Aplicação
+#### Application Components
 &emsp;&emsp;<a href="https://www.github.com/devKaos117" target="_blank">![Static Badge](https://img.shields.io/badge/vXX-%23FFFFFF?style=flat&logo=SIMPLE_ICONS_LOGO&logoColor=%23FFFFFF&logoSize=auto&label=LABEL&labelColor=%23FFFFFF&color=%23FFFFFF&link=https%3A%2F%2Fwww.github.com%2FdevKaos117)</a>
 
-### Metodologias e Design de Projeto <a name = "descricao_tecnica-design"></a>
+### Methodologies and Design Patterns <a name = "technical-description-design"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
 
-### Autenticação e Segurança <a name = "descricao_tecnica-auth"></a>
+### Authentication and Security <a name = "technical-description-auth"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
 
-### Diagramas <a name = "descricao_tecnica-diagramas"></a>
+### Diagrams <a name = "technical-description-diagrams"></a>
 - [Lorem ipsum](https://github.com/devKaos117/.../.pdf)
