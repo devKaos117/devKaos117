@@ -12,8 +12,8 @@
 ##
 
 <div align="center" style="display: block; width: 100%;">
-    <a href="https://www.fedoraproject.org/" target="_blank">
-        <img  width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+    <a href="https://archlinux.org/" target="_blank">
+        <img  width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -55,7 +55,9 @@
         </a>
     </div>
     <div align="center" style="display: inline-block; width: 33%;">
-        <!---->
+        <a href="https://github.com/devKaos117/FetchCVE.py" target="_blank">
+            FetchCVE.py
+        </a>
     </div>
     <div align="center" style="display: inline-block; width: 33%;">
         <!---->
