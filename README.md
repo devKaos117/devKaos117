@@ -24,11 +24,20 @@
     <a href="https://gcc.gnu.org/" target="_blank">
         <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+    <a href="https://dotnet.microsoft.com/" target="_blank">
+        <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     </a>
     <a href="https://www.python.org/" target="_blank">
         <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    </a>
+    <a href="https://go.dev/" target="_blank">
+        <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+    </a>
+    <a href="https://learn.microsoft.com/powershell/" target="_blank">
+        <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
     </a>
 </div>
 
@@ -47,22 +56,6 @@
 </div>
 
 ## Portifólio
-<table style="border: none; width: 100%;">
-  <tr style="width: 100%;">
-    <td align="center" style="width:33.33%;">
-        <a href="https://github.com/devKaos117/Kronos.py" target="_blank">
-            Kronos.py
-        </a>
-    </td>
-    <td align="center" style="width:33.33%;">
-        <a href="https://github.com/devKaos117/FetchCVE.py" target="_blank">
-            FetchCVE.py
-        </a>
-    </td>
-    <td align="center" style="width:33.33%;">
-        <a href="https://github.com/devKaos117" target="_blank">
-            placeholder for alignment
-        </a>
-    </td>
-  </tr>
-</table>
+
+[![**FetchCVE.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=FetchCVE.py&theme=dark)](https://github.com/devKaos117/FetchCVE.py)
+[![**Kronos.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Kronos.py&theme=dark)](https://github.com/devKaos117/Kronos.py)
