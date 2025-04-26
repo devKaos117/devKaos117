@@ -60,6 +60,8 @@
         </a>
     </div>
     <div align="center" style="display: inline-block; width: 33%;">
-        <!---->
+        <a href="https://github.com/devKaos117" target="_blank">
+            placeholder for alignment
+        </a>
     </div>
 </div>
