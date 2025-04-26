@@ -47,13 +47,8 @@
 </div>
 
 ## Portifólio
-<table style="width:100%;">
-  <tr style="border: none;width:100%;">
-  <td><hr></td>
-  <td><hr></td>
-  <td><hr></td>
-  </tr>
-  <tr style="border: none;width:100%;">
+<table style="border: none; width: 100%;">
+  <tr style="width: 100%;">
     <td align="center" style="width:33.33%;">
         <a href="https://github.com/devKaos117/Kronos.py" target="_blank">
             Kronos.py
