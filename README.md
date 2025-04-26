@@ -49,17 +49,17 @@
 ## Portifólio
 
 <div align="center" style="display: block; width: 100%;">
-    <div align="center" style="display: inline-block; width: 33%;">
+    <div style="display: inline-block; width: 33%;">
         <a href="https://github.com/devKaos117/Kronos.py" target="_blank">
             Kronos.py
         </a>
     </div>
-    <div align="center" style="display: inline-block; width: 33%;">
+    <div style="display: inline-block; width: 33%;">
         <a href="https://github.com/devKaos117/FetchCVE.py" target="_blank">
             FetchCVE.py
         </a>
     </div>
-    <div align="center" style="display: inline-block; width: 33%;">
+    <div style="display: inline-block; width: 33%;">
         <a href="https://github.com/devKaos117" target="_blank">
             placeholder for alignment
         </a>
