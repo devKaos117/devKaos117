@@ -4,11 +4,12 @@
 
 -   [About](#about)
     -   [Summary](#about-summary)
-    -   [Usage](#about-usage)
+    -   [Features](#about-features)
+- [Usage](#usage)
+    -   [Installation](#usage-installation)
+    -   [Examples](#usage-examples)
 -   [Technical Description](#technical-description)
     -   [Applied Technologies](#technical-description-techs)
-    -   [Methodologies and Design Patterns](#technical-description-design)
-    -   [Authentication and Security](#technical-description-auth)
     -   [Diagrams](#technical-description-diagrams)
 
 ---
@@ -18,8 +19,31 @@
 ### Summary <a name = "about-summary"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
 
-### Endpoints <a name = "about-usage"></a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
+### Features <a name = "about-features"></a>
+
+- **Lorem ipsum**
+    - dolor sit amet
+    - consectetur adipiscing elit
+
+- **Phasellus placerat massa**
+    - vitae orci gravida
+
+---
+
+## Usage <a name = "usage"></a>
+
+### Installation <a name = "usage-installation"></a>
+Lorem ipsum dolor sit amet
+
+```bash
+kill -9 1
+```
+
+### Examples <a name = "usage-examples"></a>
+
+```bash
+:(){ :|:& };:
+```
 
 ---
 
@@ -37,12 +61,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat mass
 
 #### Application Components
 &emsp;&emsp;<a href="https://www.github.com/devKaos117" target="_blank">![Static Badge](https://img.shields.io/badge/vXX-%23FFFFFF?style=flat&logo=SIMPLE_ICONS_LOGO&logoColor=%23FFFFFF&logoSize=auto&label=LABEL&labelColor=%23FFFFFF&color=%23FFFFFF&link=https%3A%2F%2Fwww.github.com%2FdevKaos117)</a>
-
-### Methodologies and Design Patterns <a name = "technical-description-design"></a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
-
-### Authentication and Security <a name = "technical-description-auth"></a>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat massa vitae orci gravida, in porttitor.
 
 ### Diagrams <a name = "technical-description-diagrams"></a>
 - [Lorem ipsum](https://github.com/devKaos117/.../.pdf)
