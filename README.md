@@ -58,5 +58,5 @@
 ## Portifólio
 
 [![**Kronos.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Kronos.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Kronos.py)
-[![**FetchCVE.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=FetchCVE.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/FetchCVE.py)
+[![**CVEToolkit.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=FetchCVE.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/CVEToolkit.py)
 [![**Utils.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Utils.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Utils.py)
