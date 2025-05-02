@@ -59,4 +59,5 @@
 
 [![**Kronos.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Kronos.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Kronos.py)
 [![**CVEToolkit.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=CVEToolkit.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/CVEToolkit.py)
+[![**Asclepius.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Asclepius.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Asclepius.py)
 [![**Utils.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Utils.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Utils.py)
