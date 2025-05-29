@@ -57,11 +57,4 @@
 
 ## Portifólio
 
-### Python
-
-[![**Morpheus.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Morpheus.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Morpheus.py)
-[![**Hermes.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Hermes.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Hermes.py)
-[![**Kronos.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Kronos.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Kronos.py)
-[![**Hekate.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Hekate.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Hekate.py)
-[![**CVEToolkit.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=CVEToolkit.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/CVEToolkit.py)
-[![**Utils.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Utils.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Utils.py)
+[![**Olympus.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Olympus.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Morpheus.py)
