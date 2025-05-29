@@ -57,4 +57,4 @@
 
 ## Portifólio
 
-[![**Olympus.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Olympus.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Morpheus.py)
+[![**Olympus.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Olympus.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Olympus.py)
