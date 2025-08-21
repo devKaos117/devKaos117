@@ -92,6 +92,7 @@
 [terminal]
     shell = { program = "/bin/zsh", args = [] }
     #shell = { program = "powershell", args = [] }
+	#shell = { program = "C:\\Program Files\\PowerShell\\7\\pwsh.exe", args = [] }
     osc52 = "OnlyCopy"
 
 [mouse]
