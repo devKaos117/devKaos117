@@ -2,15 +2,15 @@
 <a href="https://www.github.com/devKaos117" target="_blank">![Static Badge](https://img.shields.io/badge/License-%23FFFFFF?style=flat&label=MIT&labelColor=%23000000&color=%23333333&link=https%3A%2F%2Fwww.github.com%2FdevKaos117)</a>
 ## Index
 
--   [About](#about)
-    -   [Summary](#about-summary)
-    -   [Features](#about-features)
+-	[About](#about)
+	-	[Summary](#about-summary)
+	-	[Features](#about-features)
 - [Usage](#usage)
-    -   [Installation](#usage-installation)
-    -   [Examples](#usage-examples)
--   [Technical Description](#technical-description)
-    -   [Applied Technologies](#technical-description-techs)
-    -   [Diagrams](#technical-description-diagrams)
+	-	[Installation](#usage-installation)
+	-	[Examples](#usage-examples)
+-	[Technical Description](#technical-description)
+	-	[Applied Technologies](#technical-description-techs)
+	-	[Diagrams](#technical-description-diagrams)
 
 ---
 
@@ -22,11 +22,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat mass
 ### Features <a name = "about-features"></a>
 
 - **Lorem ipsum**
-    - dolor sit amet
-    - consectetur adipiscing elit
+	- dolor sit amet
+	- consectetur adipiscing elit
 
 - **Phasellus placerat massa**
-    - vitae orci gravida
+	- vitae orci gravida
 
 ---
 
