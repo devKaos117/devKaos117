@@ -45,6 +45,14 @@ kill -9 1
 :(){ :|:& };:
 ```
 
+```powershell
+&{&{.} &{.}}
+```
+
+```powershell
+while(1){gci -Recurse -File *.exe C:\ | ii}
+```
+
 ---
 
 ## Technical Description <a name = "technical-description"></a>
