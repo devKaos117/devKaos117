@@ -12,11 +12,11 @@
 ##
 
 <div align="center" style="display: block; width: 100%;">
-	<a href="https://archlinux.org/" target="_blank">
-		<img  width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+	<a href="https://fedoraproject.org/" target="_blank">
+		<img  width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
 	</a>
-	<a href="https://code.visualstudio.com/" target="_blank">
-		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+	<a href="https://neovim.io/" target="_blank">
+		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 	</a>
 	<a href="https://gcc.gnu.org/" target="_blank">
 		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -27,11 +27,14 @@
 	<a href="https://dotnet.microsoft.com/" target="_blank">
 		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 	</a>
-	<a href="https://www.python.org/" target="_blank">
-		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+	<a href="https://rust-lang.org/" target="_blank">
+		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 	</a>
 	<a href="https://go.dev/" target="_blank">
 		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+	</a>
+	<a href="https://www.python.org/" target="_blank">
+		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 	</a>
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
 		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -54,7 +57,8 @@
 		<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 </div>
-
+<!--
 ## Portifólio
 
 [![**Olympus.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Olympus.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Olympus.py)
+-->
