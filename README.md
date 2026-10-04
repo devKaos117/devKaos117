@@ -12,8 +12,8 @@
 ##
 
 <div align="center" style="display: block; width: 100%;">
-	<a href="https://fedoraproject.org/" target="_blank">
-		<img  width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+	<a href="https://www.debian.org/" target="_blank">
+		<img  width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 	</a>
 	<a href="https://neovim.io/" target="_blank">
 		<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
@@ -46,19 +46,64 @@
 
 ##
 
-<div  align="center" style="display: block; width: 100%;">
-	<a href="mailto:gustavo.s.aragao.2003@gmail.com" target="_blank">
-		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<a href="https://stackoverflow.com/users/12509007/gustavo-s-arag%c3%a3o" target="_blank">
-		<img alt="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-	</a>
+<div align="center" style="display: block; width: 100%;">
+	<!-- LinkedIn -->
 	<a href="https://www.linkedin.com/in/kaos/" target="_blank">
-		<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto">
+	</a>
+	<!-- OffSec -->
+	<a href="https://portal.offsec.com/public-profile/c0102f0a-2f36-11f0-9794-0ad45fbd5c7b/" target="_blank">
+		<img alt="OffSec" src="https://img.shields.io/badge/OffSec-000000?style=for-the-badge&logo=kalilinux&logoColor=red&logoSize=auto">
+	</a>
+	<!-- HackTheBox -->
+	<a href="https://app.hackthebox.com/public/users/2876803/" target="_blank">
+		<img alt="HackTheBox" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green&logoSize=auto">
 	</a>
 </div>
-<!--
-## Portifólio
 
-[![**Olympus.py**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Olympus.py&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Olympus.py)
--->
+<div align="center" style="display: none; width: 100%;">
+	<!-- OSCP -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="OSCP" width="130">
+	</a>
+	<!-- OSEP -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="OSEP" width="130">
+	</a>
+	<!-- OSWE -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="OSWE" width="130">
+	</a>
+	<!-- OSED -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="OSED" width="130">
+	</a>
+	<!-- OSWP -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="OSWP" width="130">
+	</a>	
+	<!-- CWES -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="CWES" width="130">
+	</a>
+	<!-- CAPE -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="CAPE" width="130">
+	</a>
+	<!-- CWPE -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="CWPE" width="130">
+	</a>
+	<!-- COAE -->
+	<a href="" target="_blank">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="COAE" width="130">
+	</a>
+</div>
+
+## Portifólio
+<div align="center" style="display: block; width: 100%;">
+
+[![**Metis**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Metis&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Metis)
+[![**Thoth**](https://github-readme-stats.vercel.app/api/pin/?username=devKaos117&repo=Thoth&theme=dark&description_lines_count=3)](https://github.com/devKaos117/Thoth)
+
+</div>
